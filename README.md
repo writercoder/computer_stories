@@ -14,16 +14,6 @@ though he does not possess a degreee in computer science.
 3. Writing some very weird stories that make you go "Whoa!! This is
 like some matrix level shit!"
 
-# Generating story prompts
-
-This repository will contain code that will provide computer related
-prompts for writing stories.
-
-# Running katas
-
-This repository will create code for outputting markdown formatted
-kata prompts.
-
 # Contributing stories
 
 Please fork this repository and send a pull request.
